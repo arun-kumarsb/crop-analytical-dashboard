@@ -1,0 +1,24 @@
+# Python byte-code and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Streamlit run cache
+.streamlit/cache/
+
+# OS and installer logs
+install*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Frontend dependencies and build outputs
+node_modules/
+dist/
+dist-ssr/
+frontend/node_modules/
+frontend/dist/
+*.local
